@@ -29,12 +29,10 @@
       "preventVerticalStrech" : true
     }
   },
-  "product-name" : {},
   "product-price" : {
     "props" : {
       "showSavings" : true,
       "showListPrice" : true
     }
-  },
-  "buy-button" : {}
+  }
 }
