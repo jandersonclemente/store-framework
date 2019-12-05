@@ -11,6 +11,7 @@
   },
   "search-result-layout.desktop" : {
       "children" : [
+        "breadcrumb.search",
         "search-title.v2",
         "total-products.v2",
         "order-by.v2",
@@ -25,6 +26,7 @@
   },
   "search-result-layout.mobile" : {
     "children" : [
+      "breadcrumb.search",
       "search-title.v2",
       "total-products.v2",
       "order-by.v2",
