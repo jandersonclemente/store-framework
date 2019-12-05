@@ -1,8 +1,9 @@
-.infoCardContainer{
+.infoCardContainer,
+.flexRow--customflex{
     max-width: 1260px;
     margin: 0 auto;
     padding: 0;
-}
+}   
 
 .infoCardHeadline {
     font-family: serif;
