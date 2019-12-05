@@ -60,12 +60,10 @@
   },
   "sku-selector" : {
     "props" : {
-      "initialSelection" : "InitialSelectionEnum",
-      "InitialSelectionEnum" : "empty",
+      "initialSelection" : "empty",
       "showValueNameForImageVariation" : true,
       "showVariationsErrorMessage" : true,
-      "showVariationsLabels" : true,
-      "displayMode" : "string"
+      "showVariationsLabels" : true
     }
   }
 }
