@@ -63,7 +63,9 @@
       "initialSelection" : "InitialSelectionEnum",
       "InitialSelectionEnum" : "empty",
       "showValueNameForImageVariation" : true,
-      "showVariationsErrorMessage" : true
+      "showVariationsErrorMessage" : true,
+      "showVariationsLabels" : true,
+      "displayMode" : "string"
     }
   }
 }
